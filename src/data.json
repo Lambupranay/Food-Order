@@ -1,0 +1,128 @@
+[
+    {
+      "name": "Wada",
+      "price": 35,
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+      "image": "vada.png",
+      "type": "Breakfast"
+    },
+    {
+      "name": "Bonda",
+      "price": 25,
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+      "image": "bonda.png",
+      "type": "Breakfast"
+    },
+    {
+      "name": "Dosa",
+      "price": 30,
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+      "image": "dosa.png",
+      "type": "Breakfast"
+    },
+    {
+      "name": "Idly",
+      "price": 25,
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+      "image": "idli.png",
+      "type": "Breakfast"
+    },
+    {
+      "name": "Poori",
+      "price": 10,
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+      "image": "poori.png",
+      "type": "Breakfast"
+    },
+    {
+      "name": "Boiled Egg",
+      "price": 10,
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+      "image": "egg.png",
+      "type": "Breakfast"
+    },
+    {
+      "name": "Ramen",
+      "price": 25,
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+      "image": "ramen.png",
+      "type": "Lunch"
+    },
+    {
+      "name": "Grilled Chicken",
+      "price": 45,
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+      "image": "chicken.png",
+      "type": "Dinner"
+    },
+    {
+      "name": "Burger",
+      "price": 23,
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+      "image": "burger.png",
+      "type": "Lunch"
+    },
+    {
+      "name": "Pancake",
+      "price": 25,
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+      "image": "pancake.png",
+      "type": "Dinner"
+    },
+    {
+      "name": "Chole Bature",
+      "price": 23,
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+      "image": "cholebature.jpeg",
+      "type": "Lunch"
+    },
+    {
+      "name": "Naan",
+      "price": 23,
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+      "image": "naan.jpeg",
+      "type": "Lunch"
+    },
+    {
+      "name": "Rajma Chawal",
+      "price": 23,
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+      "image": "rajmachawal.jpeg",
+      "type": "Lunch"
+    },
+    {
+      "name": "Thaali",
+      "price": 23,
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+      "image": "thaali.jpeg",
+      "type": "Lunch"
+    },
+    {
+      "name": "Chicken Biryani",
+      "price": 25,
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+      "image": "chickenbiryani.jpeg",
+      "type": "Dinner"
+    },
+    {
+      "name": "Veg Biryani",
+      "price": 25,
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+      "image": "vegbiryani.jpeg",
+      "type": "Dinner"
+    },
+    {
+      "name": "Roti",
+      "price": 25,
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+      "image": "Roti.jpeg",
+      "type": "Dinner"
+    },
+    {
+      "name": "Noodles",
+      "price": 25,
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+      "image": "noodles.jpeg",
+      "type": "Dinner"
+    }
+  ]

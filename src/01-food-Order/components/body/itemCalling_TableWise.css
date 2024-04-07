@@ -1,0 +1,22 @@
+#ItemCalling{
+    padding: 15px;
+    /* border: 2px solid black; */
+}
+td{
+    padding:  10px;
+    border: 2px solid black;
+    text-align: center;
+
+}
+td.img{
+    /* align-items: center;
+     */
+     margin: 0 auto;
+    height: 500px;
+    width: 500px;
+    /* display: block; */
+}
+td.button{
+    padding: 5px;
+    border: 2px solid black;
+}
